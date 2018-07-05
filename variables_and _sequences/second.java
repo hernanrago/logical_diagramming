@@ -13,6 +13,6 @@ class Second {
 		System.out.println("Enter your last name: ");
 		lastName = scanner.nextLine();
 		
-		System.out.println(lastName + ", " + firstName;
+		System.out.println(lastName + ", " + firstName);
 	}
 }
